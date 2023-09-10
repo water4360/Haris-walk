@@ -1,5 +1,5 @@
 # Haris-walk
-- 미니게임-하리의 산책은 HTML, jQuery 기반으로 만들어졌습니다.
+- 미니게임-하리의 산책은 JavaScript, jQuery 기반으로 만들어졌습니다.
 - <a href="https://water4360.github.io/web-haris-walk/" target="_blank">게임하러 가기</a>
 
 ![intro](https://github.com/water4360/Haris-walk/assets/121849929/01430c37-51bf-46b8-929e-29cd12f80198)
